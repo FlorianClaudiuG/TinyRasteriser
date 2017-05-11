@@ -1,0 +1,69 @@
+﻿Build started 06.11.2016 01:56:05.
+     1>Project "C:\Users\Claudiu\Desktop\TinyRaster\TinyRaster\TinyRaster.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Rasterizer.cpp
+         Rasterizer.cpp
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(141): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(142): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(168): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(169): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(170): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(171): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(172): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(193): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(194): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(195): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(196): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(197): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(201): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(202): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(203): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(204): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(205): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(219): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(220): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(221): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(222): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(223): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(254): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(260): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(262): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(268): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(270): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(308): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(308): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(309): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(312): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(328): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(329): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(347): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(352): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(357): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(362): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(373): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(378): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(383): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(388): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(455): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(456): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(457): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(458): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(492): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+     1>c:\users\claudiu\desktop\tinyraster\tinyraster\rasterizer.cpp(497): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Claudiu\Desktop\TinyRaster\Debug\TinyRaster.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Claudiu\Desktop\TinyRaster\Debug\TinyRaster.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Claudiu\Desktop\TinyRaster\Debug\TinyRaster.lib" /MACHINE:X86 Debug\TinyRaster.res
+         Debug\AssignmentTests.obj
+         Debug\Framebuffer.obj
+         Debug\TestApplication.obj
+         Debug\AppWindow.obj
+         Debug\Rasterizer.obj
+         Debug\TinyRasterMain.obj
+         Debug\Vector2.obj
+         Debug\Vector3.obj
+         Debug\Vector4.obj
+         TinyRaster.vcxproj -> C:\Users\Claudiu\Desktop\TinyRaster\Debug\TinyRaster.exe
+     1>Done Building Project "C:\Users\Claudiu\Desktop\TinyRaster\TinyRaster\TinyRaster.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.09
